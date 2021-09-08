@@ -28,3 +28,47 @@
 
 > All we have is now ~ Vamsi
  
+ ---
+ ### Code Fencing
+ > Evaluating a Determinant by Gaussian elimination: to do this you add multiples of one row to another until all entries below the main diagonal are 0. The determinant (which is unchanged by these actions) is then the product of the diagonal entries. Machines can do such things for n by n matrices with n in the hundreds or thousands, but people find the exercise a bit dull.
+
+> Expansion of a determinant  in a row or column: let the matrix M have elements mij. The first index describes the row number, the second the column number.
+
+> M's determinant is a sum of the elements of any single row each multiplied by a factor. What factor?
+
+> For the j-th element of the i-th row it is the determinant of the matrix obtained by removing that row and column, multiplied by a sign factor of -1 to the sum of the indices of the element, i + j
+
+[Linear Algebra - Gaussian Elimination] (https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter04/section03.html)
+
+```
+{
+const double EPS = 1E-9;
+int n;
+vector < vector<double> > a (n, vector<double> (n));
+
+double det = 1;
+for (int i=0; i<n; ++i) {
+    int k = i;
+    for (int j=i+1; j<n; ++j)
+        if (abs (a[j][i]) > abs (a[k][i]))
+            k = j;
+    if (abs (a[k][i]) < EPS) {
+        det = 0;
+        break;
+    }
+    swap (a[i], a[k]);
+    if (i != k)
+        det = -det;
+    det *= a[i][i];
+    for (int j=i+1; j<n; ++j)
+        a[i][j] /= a[i][i];
+    for (int j=0; j<n; ++j)
+        if (j != i && abs (a[j][i]) > EPS)
+            for (int k=i+1; k<n; ++k)
+                a[j][k] -= a[i][k] * a[j][i];
+}
+
+cout << det;
+}
+```
+[Code Source](https://cp-algorithms.com/linear_algebra/determinant-gauss.html)
