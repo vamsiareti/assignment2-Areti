@@ -12,3 +12,6 @@ Also it's known as **"Las Vegas"** of Andhra Pradesh.
     2. Book a flight to Hyderabad and go to Hyderabad.
 2. Book a cab at Hyderabad airport and go to Bhimavaram.
 3. Your destination is arrived.
+- In Bhimavaram we have Sivalayam(Temple).
+- Most of the films were shot in this place.
+- The place is famously known for "Chicken Fight".
