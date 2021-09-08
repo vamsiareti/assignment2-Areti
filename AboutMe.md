@@ -36,8 +36,6 @@
 
 > M's determinant is a sum of the elements of any single row each multiplied by a factor. What factor?
 
-> For the j-th element of the i-th row it is the determinant of the matrix obtained by removing that row and column, multiplied by a sign factor of -1 to the sum of the indices of the element, i + j
-
 [Linear Algebra - Gaussian Elimination] (https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter04/section03.html)
 
 ```
