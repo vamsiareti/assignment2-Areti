@@ -25,5 +25,6 @@
 ---
 ### Pithy Quotes
 > The purpose of our lives is to be happy ~ Vamsi
->  All we have is now ~ Vamsi
+
+> All we have is now ~ Vamsi
  
