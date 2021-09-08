@@ -13,11 +13,10 @@
  These are the most famous foods available in Bhimavaram.
  People go crazy for these and they all always get craving all the time.
  It is widely known that "Bhimavaram" is a centre of various foods/varieties.
- 
+
 
 |            Food               |            Location               |            Price              |
 |-------------------------------|-----------------------------------|-------------------------------|
-|                               |                                   |                               |
 |       Mixed Biryani           |            Bhimavaram             |            INR 300            |
 |       Chicken Biryani         |            Bhimavaram             |            INR 250            |
 |       Goat Biryani            |            Bhimavaram             |            INR 450            |
