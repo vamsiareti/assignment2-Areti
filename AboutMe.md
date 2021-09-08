@@ -21,3 +21,9 @@
 |       Chicken Biryani         |            Bhimavaram             |            INR 250            |
 |       Goat Biryani            |            Bhimavaram             |            INR 450            |
 |       Prawn Biryani           |            Bhimavaram             |            INR 400            |
+
+---
+### Pithy Quotes
+> The purpose of our lives is to be happy ~ Vamsi
+>  All we have is now ~ Vamsi
+ 
