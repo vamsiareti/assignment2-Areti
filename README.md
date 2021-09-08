@@ -15,3 +15,18 @@ Also it's known as **"Las Vegas"** of Andhra Pradesh.
 - In Bhimavaram we have Sivalayam(Temple).
 - Most of the films were shot in this place.
 - The place is famously known for "Chicken Fight".
+
+
+
+
+
+
+
+
+
+
+
+![AboutMe.md](AboutMe.md)
+
+
+
