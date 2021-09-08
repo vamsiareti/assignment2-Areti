@@ -32,8 +32,6 @@
  ### Code Fencing
  > Evaluating a Determinant by Gaussian elimination: to do this you add multiples of one row to another until all entries below the main diagonal are 0. The determinant (which is unchanged by these actions) is then the product of the diagonal entries. Machines can do such things for n by n matrices with n in the hundreds or thousands, but people find the exercise a bit dull.
 
-> Expansion of a determinant  in a row or column: let the matrix M have elements mij. The first index describes the row number, the second the column number.
-
 [Linear Algebra - Gaussian Elimination] (https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter04/section03.html)
 
 ```
