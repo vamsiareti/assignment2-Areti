@@ -34,8 +34,6 @@
 
 > Expansion of a determinant  in a row or column: let the matrix M have elements mij. The first index describes the row number, the second the column number.
 
-> M's determinant is a sum of the elements of any single row each multiplied by a factor. What factor?
-
 [Linear Algebra - Gaussian Elimination] (https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter04/section03.html)
 
 ```
