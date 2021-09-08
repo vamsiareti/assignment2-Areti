@@ -10,7 +10,7 @@
 ---
 ### Foods/Drinks I'd recommend
 
-|           ####Food            |           ####Location            |           ####Price           |
+|           #### Food           |           #### Location           |           #### Price          |
 |-------------------------------|-----------------------------------|-------------------------------|
 |                               |                                   |                               |
 |       Mixed Biryani           |            Bhimavaram             |            INR 300            |
