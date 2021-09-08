@@ -10,6 +10,10 @@
 ---
 ### Foods/Drinks I'd recommend
 
-|   Food    |   Location    |   Price   |
-|-----------|---------------|-----------|
-|           |               |           |
+|           ####Food            |           ####Location            |           ####Price           |
+|-------------------------------|-----------------------------------|-------------------------------|
+|                               |                                   |                               |
+|       Mixed Biryani           |            Bhimavaram             |            INR 300            |
+|       Chicken Biryani         |            Bhimavaram             |            INR 250            |
+|       Goat Biryani            |            Bhimavaram             |            INR 450            |
+|       Prawn Biryani           |            Bhimavaram             |            INR 400            |
